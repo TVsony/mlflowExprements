@@ -83,9 +83,11 @@ mlflow.set_tracking_uri(remote_server_uri)
 
 # 📂 Project Structure
 
-├── main.py                    # Main ML training script
-├── README.md                  # Project documentation
-├── requirements.txt           # Python dependencies
+
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/a1fbfc43-0870-4495-b50e-cca73b918cac">
+
+
+
 
 # 📘 References
 
